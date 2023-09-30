@@ -21,5 +21,8 @@ A simple React application that allows users to convert currency from one type t
 ## Installation
 
 1. Clone the repository:
+      
+      ```bash
+   git clone https://github.com/kratin01/Currency-convertor.git
 
-git clone https://github.com/kratin01/Currency-convertor.git
+
