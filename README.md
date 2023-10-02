@@ -16,7 +16,7 @@ A simple React application that allows users to convert currency from one type t
 
 - React
 - JavaScript
-- CSS
+- Tailwind CSS
 
 ## Installation
 
